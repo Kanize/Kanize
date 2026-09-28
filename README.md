@@ -24,13 +24,16 @@ Currently, I’m focused on strengthening my skills in **React, Next.js, TypeScr
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)
 
-### Styling
+### Styling with Responsive Design
 
-`Tailwind CSS` `Responsive Design`
+[![My Skills](https://skillicons.dev/icons?i=css,tailwind)](https://skillicons.dev)
 
 ### Tools
 
-`Git` `GitHub` `VS Code` `Vite`
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vite)](https://skillicons.dev)
+
+###Design & Graphics
+
 
 ---
 
