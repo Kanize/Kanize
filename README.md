@@ -34,6 +34,7 @@ Currently, I’m focused on strengthening my skills in **React, Next.js, TypeScr
 
 ###Design & Graphics
 
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)
 
 ---
 
