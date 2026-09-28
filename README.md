@@ -1,4 +1,4 @@
-# Hi, I'm Kanize 👋
+# Hi, I'm Kamrunnahar Kanize 👋
 
 ### Frontend Developer | React | Next.js | TypeScript
 
