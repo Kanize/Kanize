@@ -23,6 +23,7 @@ Currently, I’m focused on strengthening my skills in **React, Next.js, TypeScr
 ### Frontend
 
 `HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js`
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### Styling
 
